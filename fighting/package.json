@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://sycuuui.github.io/segun_fighting",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
   }
 }
